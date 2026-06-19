@@ -1,0 +1,4 @@
+customer,junyaw,jy1006,LIM JUN YAW,0132227886
+customer,cheefung,cf0930,PANG CHEE FUNG,0132268864
+customer,junrong,jr0913,LEONG CHUN WENG,0125543837
+customer,rohan,rh0813,ROHANRAJ,0165543323

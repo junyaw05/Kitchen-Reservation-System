@@ -1,0 +1,4 @@
+KC001,Pantry Kitchen,15,249.0
+KC002,Sunny Side Kitchen,18,279.0
+KC003,Golden Wok Kitchen,16,259.0
+KC004,Corner Chef's,20,250.0
